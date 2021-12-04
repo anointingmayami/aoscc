@@ -1,2 +1,2 @@
-![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
-![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only)
+![GitHub Light](https://github.com/aoscc/aoscc/blob/main/assets/img/favicon.png)
+![GitHub Dark](https://github.com/aoscc/aoscc/blob/main/assets/img/favicon%20-%20Inverse.png)
