@@ -2,4 +2,4 @@
 
 ![GitHub Dark](https://github.com/aoscc/aoscc/blob/main/assets/img/favicon%20-%20Inverse.png)
 
-![Whatsapp Icon](https://img.icons8.com/ios-filled/20/26e07f/whatsapp--v1.png) Whatsapp Community [Click here to Join](https://chat.whatsapp.com/BHSDuz1xbBl8kKegzwCkbu).
+![Whatsapp Icon](https://img.icons8.com/ios-filled/15/26e07f/whatsapp--v1.png) Whatsapp Community [Click here to Join](https://chat.whatsapp.com/BHSDuz1xbBl8kKegzwCkbu).
