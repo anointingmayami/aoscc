@@ -23,3 +23,7 @@ No Expose listing. Upcoming expose will soon be listed here. check back tomorrow
 # Contact Info:
 
 For feedback, support, projects, sponsorship and more, kindly contact us at [asourcecommunity@gmail.com](mailto:asourcecommunity@gmail.com)
+
+# Resourceful Links:
+
+[Figma File](https://www.figma.com/file/mOxX3lbJC3iRqo501ovZZc/AOSC?node-id=0%3A1)
