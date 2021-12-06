@@ -22,7 +22,7 @@ No Expose listing. Upcoming expose will soon be listed here. check back tomorrow
 
 # Membership:
 
-![GitHub Dark](https://github.com/aoscc/aoscc/blob/main/assets/img/favicon%20-%20Inverse.png)
+![GitHub Dark](https://github.com/aoscc/aoscc/blob/main/assets/img/Membership%20Card.jpg)
 
 Begin your membership career at AOSCC with just $10 per month. As a member, you are authorized to attend our paid events, workshop and conferences for free. You also benefits from our community benefits such as becoming a Speaker, Repo Contributor, Paid Projects & Gigs, and many more. Kindly [apply here](https://flutterwave.com/pay/aoscc) to subscribe.
 
