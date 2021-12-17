@@ -20,7 +20,17 @@ Introduction To Open Source Contributors at AOSCC (Africa Open Source Contributo
 
 [Book a seat](https://us05web.zoom.us/j/88360960975?pwd=RDM1TGYvU0swakNydGpWNHBKazhpUT09)
 
-[Guest Speaker List](https://docs.google.com/spreadsheets/d/1mEQHoJcFrulvYOuc0hloINIPng1hj8AQbsF7g7ujzBk/edit?usp=sharing)
+###### Guest Speakers
+
+[Jaideep Singh](https://github.com/Jaideep25-tech)
+
+[Abhishree Verma](https://github.com/abhishree07)
+
+Khushal Agarwal
+
+[Saniya Bhargav](https://github.com/SaniyaBhargav)
+
+[Muhammad Zohaib Arshad](https://github.com/zaibidev)
 
 # Workshop:
 
