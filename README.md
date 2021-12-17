@@ -11,10 +11,15 @@
 # Events:
 
 **Published on:** 17th December, 2021.
-![GitHub Dark](https://github.com/aoscc/aoscc/blob/main/assets/img/favicon%20-%20Inverse.png) ![GitHub Dark](https://github.com/aoscc/aoscc/blob/main/assets/img/favicon%20-%20Inverse.png)
+
+![GitHub Dark](https://github.com/aoscc/aoscc/blob/main/assets/img/Introduction%20To%20Open%20Source%20Contributors%20at%20AOSCC.jpeg) ![GitHub Dark](https://github.com/aoscc/aoscc/blob/main/assets/img/Guest%20Speakers%20of%20Introduction%20To%20Open%20Source%20Contributors%20at%20AOSCC.jpeg)
+
 Introduction To Open Source Contributors at AOSCC (Africa Open Source Contributors Community).
+
 **Date:** Saturday 18th, December, 2021. **Time:** 1:30AM (GMT+1) **Location:** Virtual Event (Zoom call).
+
 [Book a seat](https://us05web.zoom.us/j/88360960975?pwd=RDM1TGYvU0swakNydGpWNHBKazhpUT09)
+
 [Guest Speaker List](https://docs.google.com/spreadsheets/d/1mEQHoJcFrulvYOuc0hloINIPng1hj8AQbsF7g7ujzBk/edit?usp=sharing)
 
 # Workshop:
