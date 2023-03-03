@@ -48,8 +48,7 @@ Begin your membership career at AOSCC with just $10 per month. As a member, you 
 
 # Contact Info:
 
-For official feedback, support, projects, sponsorship and more, kindly contact us at [asourcecommunity@gmail.com](mailto:asourcecommunity@gmail.com)
-
+For official feedback, support, projects, sponsorship and more, 
 # Resourceful Links:
 
 [Figma File](https://www.figma.com/file/mOxX3lbJC3iRqo501ovZZc/AOSC?node-id=0%3A1)
